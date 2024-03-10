@@ -3,8 +3,8 @@
 Modelo de site, desenvolvido segundo ensino do curso "Web- Completo" da Udemy.
 <br>
 Tecnologias utilizadas:
-<li>HTML5</li>
-<li>CSS3</li>
+<li>HTML</li>
+<li>CSS</li>
 <br>
 Ferramenta:
 <br>
